@@ -1,0 +1,16 @@
+header{
+    height: 200px;
+}
+.bottom-header{
+    height: 70%;
+}
+.logo{
+    height: 100%;
+}
+.logo-a{
+    display: inline-block;
+    height: 100%;
+}
+.logo_img{
+    height: 100%;
+}
